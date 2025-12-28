@@ -6,18 +6,16 @@ A LSP Server for the Faust programming language.
 
 To install, run  
 ```sh
-go get github.com/carn181/faustlsp@latest
+go install github.com/carn181/faustlsp@latest
 ```
 
 This will install a `faustlsp` executable in `$HOME/go/bin` by default.  
-
 
 Alternatively, you can clone this repository, build and install faustlsp.  
 
 ```sh
 git clone https://github.com/carn181/faustlsp
 cd faustlsp
-go build
 go install
 ```
 

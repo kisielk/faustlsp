@@ -13,7 +13,7 @@ import (
 	"github.com/carn181/faustlsp/logging"
 	"github.com/carn181/faustlsp/util"
 
-	"github.com/fsnotify/fsnotify"
+	"github.com/carn181/fsnotify"
 	cp "github.com/otiai10/copy"
 )
 
